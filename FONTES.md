@@ -15,7 +15,7 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
+| 1 | https://docs.python.org/3.12/ | Python 3.12 (linguagem) | no constitution.md |
 | — | | | |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
