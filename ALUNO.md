@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Feliped15
+Nome: Felipe Duarte Milleo Consulim
 
-RA: >>> PREENCHER <<<
+RA: 23011046-2
 
 Conta GitHub: @Feliped15
 
