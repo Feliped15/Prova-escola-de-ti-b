@@ -18,5 +18,5 @@ updated: 2026-10-07
 4. Valores monetários sempre em centavos, tipo inteiro. A API nunca retorna número com casas decimais.
 5. Todo endpoint documenta seus status de erro. Todo erro tem corpo {"erro": "<codigo>"}; nenhum erro sai no formato padrão do FastAPI ({"detail": ...}).
 6. Validação de formato (422) vem antes de regra de negócio (409).
-7. O app roda em container pelo Dockerfile descrito no plan.md, escutando em 0.0.0.0:<PORTA>.
+7. O app roda em container pelo Dockerfile descrito no plan.md, escutando em 0.0.0.0:8081.
 8. Só o que o contrato pede: sem autenticação, banco, paginação ou rotas extras.
